@@ -2,7 +2,7 @@
 
 ## Part 1. Creating a database
 
-Write a *part1.sql* script that creates the database and all the tables described above.
+Write a *part1.sql* script that creates the school database.
 
 Also, add procedures to the script that allow you to import and export data for each table from/to a file with a *.csv* extension. \
 The *csv* file separator is specified as a parameter of each procedure.
@@ -13,8 +13,6 @@ This new data needs to be added to this script as well.
 
 If *csv* files were used to add data to the tables, they must also be uploaded to the GIT repository.
 
-*All tasks must be named in the format of names for School 21, for example A5_s21_memory. \
-In the future, Whether a task belongs to a block will be determined by the name of the block in the task name, e.g. "CPP3_SmartCalc_v2.0" belongs to the CPP block. \*
 
 ## Part 2. Changing data
 
